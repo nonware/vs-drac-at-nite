@@ -2041,7 +2041,7 @@
         <Background Type="CT_RAW" Source="FF0E1419" />
       </Color>
       <Color Name="CommandBarCheckBox">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FFBD93F9" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientBegin">
         <Background Type="CT_RAW" Source="FF192839" />
@@ -3290,7 +3290,7 @@
         <Background Type="CT_RAW" Source="00F1F1F1" />
       </Color>
       <Color Name="CommandBarCheckBoxMouseOver">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FFBD93F9" />
       </Color>
       <Color Name="CommandBarToolBarSeparatorHighlight">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -7721,7 +7721,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="SelectedItemActive">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FF574473" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="SelectedItemInactive">
@@ -7742,7 +7742,7 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="GlyphMouseOver">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFBD93F9" />
       </Color>
       <Color Name="SelectedItemActiveGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -7758,7 +7758,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="SelectedItemInactiveGlyphMouseOver">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFBD93F9" />
       </Color>
       <Color Name="SelectedItemInactiveGlyph">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
