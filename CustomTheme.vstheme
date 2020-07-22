@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="DraculaAtNight (22)" GUID="{f1bfc59a-e3b1-4f9d-b53f-7a34d4a5a300}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="DraculaAtNight (24)" GUID="{567df6a4-baad-4574-a9a2-405a0b8e9499}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF09111B" />
@@ -112,7 +112,7 @@
         <Background Type="CT_RAW" Source="FF55AAFF" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="GlyphMouseOver">
         <Background Type="CT_RAW" Source="FF192839" />
@@ -1309,13 +1309,13 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="HyperlinkHover">
         <Background Type="CT_RAW" Source="FF55AAFF" />
       </Color>
       <Color Name="HyperlinkPressed">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFDE559C" />
       </Color>
       <Color Name="HyperlinkDisabled">
         <Background Type="CT_RAW" Source="FF656565" />
@@ -3011,7 +3011,7 @@
         <Background Type="CT_RAW" Source="FF55AAFF" />
       </Color>
       <Color Name="PanelHyperlinkPressed">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFDE559C" />
       </Color>
       <Color Name="PanelSeparator">
         <Background Type="CT_RAW" Source="FF0E1419" />
@@ -4014,7 +4014,7 @@
       </Color>
       <Color Name="PanelHyperlinkInsideSelectionInactive">
         <Background Type="CT_RAW" Source="FF343746" />
-        <Foreground Type="CT_RAW" Source="FF192839" />
+        <Foreground Type="CT_RAW" Source="FFD7D4C8" />
       </Color>
       <Color Name="EditorAdditionalContentBorder">
         <Background Type="CT_RAW" Source="FF0E1419" />
@@ -4203,13 +4203,13 @@
     </Category>
     <Category Name="InfoBar" GUID="{832df9d1-d9a9-4eb7-ad13-ff5b421f7432}">
       <Color Name="Hyperlink">
-        <Foreground Type="CT_RAW" Source="FF192839" />
+        <Foreground Type="CT_RAW" Source="FFDE559C" />
       </Color>
       <Color Name="HyperlinkMouseOver">
         <Foreground Type="CT_RAW" Source="FF192839" />
       </Color>
       <Color Name="HyperlinkMouseDown">
-        <Foreground Type="CT_RAW" Source="FF192839" />
+        <Foreground Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="InfoBarBackground">
         <Background Type="CT_RAW" Source="FFFEFCC8" />
@@ -4500,7 +4500,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="HyperlinkHover">
         <Background Type="CT_RAW" Source="FF55AAFF" />
@@ -4562,7 +4562,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="NotificationBubbleHyperlink">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="NotificationBubbleCloseButtonGlyph">
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
@@ -4624,7 +4624,7 @@
       </Color>
       <Color Name="urlformat">
         <Background Type="CT_RAW" Source="FF09111B" />
-        <Foreground Type="CT_RAW" Source="FF738FA7" />
+        <Foreground Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="OutputHeading">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -4861,7 +4861,7 @@
         <Foreground Type="CT_RAW" Source="FF192839" />
       </Color>
     </Category>
-    <Category Name="ReSharper Highlighting" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="Android Layout Editor Colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="dotCover Code Highlighter (Uncovered)">
         <Background Type="CT_RAW" Source="FF4D4D49" />
         <Foreground Type="CT_INVALID" Source="00000000" />
@@ -5352,7 +5352,7 @@
       </Color>
       <Color Name="ReSharper Todo Item Hyperlink">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF738FA7" />
+        <Foreground Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="ReSharper Rearrange Left/Right Code Hint">
         <Background Type="CT_RAW" Source="FF5E5B02" />
@@ -5552,7 +5552,7 @@
       </Color>
       <Color Name="urlformat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF738FA7" />
+        <Foreground Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="NavigableSymbolFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -6024,7 +6024,7 @@
       </Color>
       <Color Name="ReSharper Hyperlink">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF192839" />
+        <Foreground Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="ReSharper Name or Signature Changed">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6068,7 +6068,7 @@
       </Color>
       <Color Name="ReSharper Stack Trace Hyperlink">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF192839" />
+        <Foreground Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="ReSharper JavaScript Local Variable Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6359,6 +6359,10 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper CSS function">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="MarkerFormatDefinition/HighlightParameterFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
@@ -7579,7 +7583,7 @@
         <Background Type="CT_RAW" Source="FF55AAFF" />
       </Color>
       <Color Name="HyperlinkPressed">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFDE559C" />
       </Color>
       <Color Name="HyperlinkDisabled">
         <Background Type="CT_RAW" Source="FF656565" />
@@ -7771,13 +7775,13 @@
     </Category>
     <Category Name="UnthemedDialog" GUID="{d1fae935-144d-45a6-af9a-d615e3cd7b75}">
       <Color Name="Hyperlink">
-        <Foreground Type="CT_RAW" Source="FF192839" />
+        <Foreground Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="HyperlinkHover">
-        <Foreground Type="CT_RAW" Source="FF192839" />
+        <Foreground Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="HyperlinkPressed">
-        <Foreground Type="CT_RAW" Source="FF192839" />
+        <Foreground Type="CT_RAW" Source="FFDE559C" />
       </Color>
     </Category>
     <Category Name="UserInformation" GUID="{b6d9f1fc-e422-4755-a014-3fb666d831dc}">
@@ -7801,7 +7805,7 @@
         <Background Type="CT_RAW" Source="FFFEFCC8" />
       </Color>
       <Color Name="ErrorHyperlink">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="IDCardInactiveText">
         <Background Type="CT_RAW" Source="FF656565" />
@@ -8037,10 +8041,10 @@
         <Background Type="CT_RAW" Source="FF9DA9B5" />
       </Color>
       <Color Name="IgnoredHyperlink">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="IgnoredSelectedHyperlink">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="IgnoredMouseOverHyperlink">
         <Background Type="CT_RAW" Source="FFA3B0C1" />
@@ -8164,7 +8168,7 @@
         <Background Type="CT_RAW" Source="FF124D74" />
       </Color>
       <Color Name="HyperlinkHover">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="HyperlinkPressed">
         <Background Type="CT_RAW" Source="FF124D74" />
