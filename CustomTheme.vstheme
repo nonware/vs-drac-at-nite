@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="DraculaAtNight (25)" GUID="{3e78c1a8-1db6-4cc2-980c-6ddc167fefc3}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="DraculaAtNight (26)" GUID="{f98528d7-c408-4d60-8f59-d92b7ef5e63e}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF09111B" />
@@ -18,7 +18,7 @@
         <Foreground Type="CT_RAW" Source="FF55AAFF" />
       </Color>
       <Color Name="HyperlinkActive">
-        <Foreground Type="CT_RAW" Source="FFFF79C6" />
+        <Foreground Type="CT_RAW" Source="FF192839" />
       </Color>
       <Color Name="NumberedListItem">
         <Background Type="CT_RAW" Source="FFB9A1CF" />
@@ -2089,19 +2089,19 @@
         <Background Type="CT_RAW" Source="FF574473" />
       </Color>
       <Color Name="CommandBarOptionsBackground">
-        <Background Type="CT_RAW" Source="FF0E1419" />
+        <Background Type="CT_RAW" Source="FF574473" />
       </Color>
       <Color Name="CommandBarOptionsGlyph">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FFFF79C6" />
       </Color>
       <Color Name="CommandBarOptionsMouseDownBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFBD93F9" />
       </Color>
       <Color Name="CommandBarOptionsMouseDownBackgroundMiddle">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFBD93F9" />
       </Color>
       <Color Name="CommandBarOptionsMouseDownBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FFBD93F9" />
       </Color>
       <Color Name="CommandBarOptionsMouseOverBackgroundBegin">
         <Background Type="CT_RAW" Source="72555555" />
@@ -3776,7 +3776,7 @@
         <Background Type="CT_RAW" Source="FF574473" />
       </Color>
       <Color Name="MainWindowActiveDefaultBorder">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FF574473" />
       </Color>
       <Color Name="MainWindowResizeGripTexture2">
         <Background Type="CT_RAW" Source="7F000000" />
@@ -4639,7 +4639,7 @@
         <Foreground Type="CT_RAW" Source="FFB1B5C6" />
       </Color>
       <Color Name="Selected Text in High Contrast">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FF2CA444" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
@@ -4713,7 +4713,7 @@
     <Category Name="Performance Tips" GUID="{7a4c6cc9-8404-4b95-af88-f11b657c7268}">
       <Color Name="Selected Text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF192839" />
+        <Foreground Type="CT_RAW" Source="FF2CA444" />
       </Color>
       <Color Name="Text">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5487,7 +5487,7 @@
         <Foreground Type="CT_RAW" Source="FFADC0D3" />
       </Color>
       <Color Name="MarkerFormatDefinition/FindHighlight">
-        <Background Type="CT_RAW" Source="FF773800" />
+        <Background Type="CT_RAW" Source="FF2CA444" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScopeHighlight">
@@ -6369,7 +6369,7 @@
     </Category>
     <Category Name="SearchControl" GUID="{f1095fad-881f-45f1-8580-589e10325eb8}">
       <Color Name="Selection">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FF2CA444" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="MouseOverBackground">
