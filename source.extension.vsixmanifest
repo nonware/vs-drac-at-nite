@@ -2,8 +2,8 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="DraculaAtNight.e1a706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0.1" Language="en-US" Publisher="nonware" />
-        <DisplayName>Dracula at Night</DisplayName>
-        <Description xml:space="preserve">This is a deep-theme "port" for Visual Studio IDE based on the popular Dracula At Night theme for Visual Studio Code by @bceskavich.</Description>
+        <DisplayName>Drac At Nite</DisplayName>
+        <Description xml:space="preserve">This is a deep-theme "port" for Visual Studio IDE based on the color pallate of the popular Dracula At Night theme for Visual Studio Code.</Description>
         <Tags>dark, theme, dracula</Tags>
         <Preview>true</Preview>
     </Metadata>
