@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="DraculaAtNight (28)" GUID="{59b01f9a-9298-48a9-b26a-dea75aad3008}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="DraculaAtNight (29)" GUID="{e02873bc-abc1-43ea-8cf7-b5c04d5b9238}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF09111B" />
@@ -4746,7 +4746,7 @@
     </Category>
     <Category Name="ProgressBar" GUID="{94acf70f-a81d-4512-a31d-8196616751ee}">
       <Color Name="IndicatorFill">
-        <Background Type="CT_RAW" Source="FF192839" />
+        <Background Type="CT_RAW" Source="FF50FA7B" />
       </Color>
       <Color Name="Background">
         <Background Type="CT_RAW" Source="FF09111B" />
@@ -5528,7 +5528,7 @@
       </Color>
       <Color Name="Operator">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDE559C" />
+        <Foreground Type="CT_RAW" Source="FF5B71A4" />
       </Color>
       <Color Name="Literal">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5728,7 +5728,7 @@
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+        <Foreground Type="CT_RAW" Source="FF50FA7B" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5744,7 +5744,7 @@
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF426E8E" />
+        <Foreground Type="CT_RAW" Source="FF5C73FE" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7141,7 +7141,7 @@
       </Color>
       <Color Name="Number">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8BDBC2" />
+        <Foreground Type="CT_RAW" Source="FFF6A536" />
       </Color>
       <Color Name="XML CData Section">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
