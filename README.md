@@ -3,7 +3,7 @@
 
 # Greetings, fiends, freaks and changelings of the night! 🦇
 
-Use Visual Studio IDE? Wish you had more dark themes to comfort you in your ~~coffin~~ chair while you obsess over small details in your programs? I present to you a deep theme for Visual Studio 2022 inspired by the color palate from [@bceskavich's VS Code theme "Dracula at Night"](https://github.com/bceskavich/dracula-at-night). It does more than just give surface controls and syntax a paint job but nearly all the elements and controls in Visual Studio. Beware! Some languages still looked like they have had the life sucked out of them and need colors applied (See Issues - PRs welcome). <>,..,<>
+Use Visual Studio IDE? Wish you had more dark themes to comfort you in your ~~coffin~~ chair while you obsess over small details in your programs? I present to you a deep theme for Visual Studio 2022 inspired by the color palate from [@bceskavich's VS Code theme "Dracula at Night"](https://github.com/bceskavich/dracula-at-night). It does more than just give surface controls and syntax a paint job but nearly all the elements and controls in Visual Studio. Beware! Some languages still look like they have had the life sucked out of them and need colors applied (See Issues - PRs welcome). <>,..,<>
 
 ## Menuing
 
